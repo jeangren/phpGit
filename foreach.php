@@ -24,6 +24,8 @@ foreach ($ete as $legume => $detail){
     }
     echo '<br>';
 }
+echo "testgit";
+
 
 $saisons = [
     "été" => [
